@@ -7,12 +7,14 @@
 
 
 **Brainstorming Notes April 20**
+
 limitations: 
 Original data excludes:
 - Asian workers, sailors
 - Enslaved people
 
 _Gender_
+
 Wives seem to be the most common beneficiaries, how was the finances received, circulated, utilised
 - do they have communities between wives
 - Do the wives have work outside of it?
@@ -26,17 +28,20 @@ Wives seem to be the most common beneficiaries, how was the finances received, c
 
 
 _Race and Age_
+
 - for people working in higher ranks: who did they include non-european people? Were there non-european workers working in higher rank but were not included in the dataset? 
 - What other sources can we work with to research this gap (journals? oral history? non-official transcripts?)
 - Was it even possible for non-Europeans to get into higher ranks?
 - Which nationality got to be captain the most? And age (demography) 
 
 _Children on ships_
+
 - for children who work on ships
 - Did they grow up in ship and pursue their career there? Did they stop and stay to work on land (mobilisation) ( How does nationality, social status affect it?
 - Why would contract with children end
 
 _Payments_
+
 What were the categories of occupations occupied by? (relation between nationality origin and ranks/ job genre they occupy)
 - age wise (occurence of switching ranks)
 - Is there an evolution in payment? Biases based on nationality and age and time?
@@ -70,6 +75,7 @@ craftsmen category
 - miller
 
 _Entertainment and wellbeing_
+
 Musician: on land or on ship?
 - who were hired?
 - linkage to music culture?
