@@ -1,7 +1,7 @@
 **Team-members**
-- Esther:
+- Esther: Background in Literary and Cultural Analysis, and currently studying Environment Humanities. My background allows me to be critical towards the data set and other materials we are working with, as well as helping me to draw connections between coloniality and other domains. As the secretary in our team, I help in creating shared files, documenting notes for each meeting and keeping track of our work tasks. 
 - Mark: Background in IT and Philosophy. Primary focus will be on asking the right questions and making sure that we are clear on the concepts and definitions that we are using. Besides that my IT background will help in making use of the various tools that we have been working with in the course. 
-- Veronica: Background in International Relations and History. Currently studying Environmental Humanities. I will maintain a general overview of the historical period taken into consideration in teh dataset. Apart from the specific engagement with the data set, i will research further information that can help us broadening the reflections emerging from the analysis and critical engagement with the data set.
+- Veronica: Background in International Relations and History. Currently studying Environmental Humanities. I will maintain a general overview of the historical period taken into consideration in the dataset. Apart from the specific engagement with the data set, i will research further information that can help us broadening the reflections emerging from the analysis and critical engagement with the data set.
 
 **Division of tasks**
 - Research and analysis -> Veronica, Mark, Esther
