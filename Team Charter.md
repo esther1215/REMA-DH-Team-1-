@@ -4,17 +4,17 @@
 - Veronica: Background in International Relations and History. Currently studying Environmental Humanities. I will maintain a general overview of the historical period taken into consideration in teh dataset. Apart from the specific engagement with the data set, i will research further information that can help us broadening the reflections emerging from the analysis and critical engagement with the data set.
 
 **Division of tasks**
-Research and analysis -> Veronica, Mark, Esther
-Tools and data visualization -> Mark
-Poster design -> Esther
+- Research and analysis -> Veronica, Mark, Esther
+- Tools and data visualization -> Mark
+- Poster design -> Esther
 
 **Deliverables and deadlines**
-April 21st: defining project-direction and starting point of further research
-May 5th: finalisation of research question and project-direction
-May 7th: presentation of progress to peers
-May 15th: finalize project
-May 17th: deliver poster presentation
-May 19th: present poster
+- April 21st: defining project-direction and starting point of further research
+- May 5th: finalisation of research question and project-direction
+- May 7th: presentation of progress to peers
+- May 15th: finalize project
+- May 17th: deliver poster presentation
+- May 19th: present poster
 
 
 **Foreseen and actual challenges and opportunities**
