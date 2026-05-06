@@ -47,9 +47,9 @@ Following Steps:
 Presentation:
 - Present research question
 - Our workflow and progress, how it has changed over time with more research
-How do we challenge the data set
-Our plan for future (and ask for feedbacks)
-Present group charter a bit
+- How do we challenge the data set
+- Our plan for future (and ask for feedbacks)
+- Present group charter a bit
 
-Separate document for the workflow and research question 
-Another for team charter
+- Create separate document for the workflow and research question
+- Another for team charter
