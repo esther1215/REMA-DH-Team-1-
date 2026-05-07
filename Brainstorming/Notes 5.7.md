@@ -21,3 +21,7 @@ A2 size poster:
 3. point out job example (clergymen and musicians -> also the utility of them)
 4. Track the voyages they were on (research on both dataset and 2nd readings (Visualisation of the voyages)
 5. Comparing wage levels (how necessary they were to the VOC)
+
+To-do:
+- find more readings on the VOC history
+- more readings on the jobs
