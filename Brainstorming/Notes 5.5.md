@@ -27,6 +27,7 @@ Wage evolution of musician and clergyman
 On further visualisation in the poster:
 - plot the wage evolution between the two jobs
 - illustrates if the evolutions are equal (transition)
+
 Two mappings
 1. geographical mapping: showing where the clergymen and musicians arrived at (destination)
 2. A map showing the evolution trends of their wages over the years
